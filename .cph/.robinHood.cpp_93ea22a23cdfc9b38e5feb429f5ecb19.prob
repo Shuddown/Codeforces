@@ -1,0 +1,1 @@
+{"name":"Local: robinHood","url":"d:\\Programming\\C++ & Compilers\\Codeforces\\robinHood.cpp","tests":[{"id":1727664295595,"input":"5\n1 1\n2 1\n2 2\n3 2\n4 4","output":"NO\nYES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\C++ & Compilers\\Codeforces\\robinHood.cpp","group":"local","local":true}
